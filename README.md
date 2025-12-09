@@ -43,49 +43,6 @@ Carrinho: Revisão dos itens adicionados e cálculo correto do subtotal/total.
 
 Pagamento: Seleção da forma de pagamento e confirmação da compra.
 
-
----
-💻 Implementação em Python.
-
-
-A implementação utiliza classes e funções para organizar a lógica do sistema:
-
-Classes
-
-Classe Roupa
-Representa os produtos, com atributos como:
-
-nome
-
-tamanho
-
-preço
-
-estoque
-
-Classe LojaRoupas
-Responsável por:
-
-gerenciar o estoque
-
-controlar o carrinho
-
-coordenar o fluxo de compra
-
-Funções principais
-
-listar estoque
-
-adicionar item ao carrinho
-
-visualizar carrinho
-
-finalizar compra
-
-Interface
-
-Menu interativo no terminal, permitindo navegação simples entre as opções.
-
 ---
 📊 Diagrama (Visão Geral).
 
@@ -114,8 +71,5 @@ levantamento de requisitos (HU)
 
 definição de testes (Gherkin)
 
-implementação (Python)
-
 modelagem (Diagrama)
 
-É um excelente exemplo de aplicação prática dos conceitos de Engenharia de Software em um sistema realista de e-commerce.
