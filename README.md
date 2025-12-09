@@ -3,8 +3,8 @@ Trabalho final de Engenharia de software
 ## 
 📘 Descrição do Projeto de Engenharia de Software
 Título: Construindo um Sistema de E-commerce com Design Top-Down e Funções
-🎯 Objetivo
 
+🎯 Objetivo
 O projeto tem como finalidade desenvolver um sistema de e-commerce simplificado, aplicando conceitos de Design Top-Down e programação estruturada em funções/classes.
 O sistema simula o fluxo completo de uma compra online — do cadastro do cliente à finalização do pedido — garantindo clareza nos requisitos e testes automatizados.
 
@@ -22,6 +22,7 @@ HU-4: Gerenciamento do carrinho (adicionar/remover itens e calcular total).
 
 HU-5: Escolha da forma de pagamento (Pix, boleto, cartão).
 
+
 🧪 Cenários de Utilização e Testes (Gherkin)
 
 Cada HU foi detalhada com cenários de teste em Gherkin, permitindo que analistas validem o comportamento esperado:
@@ -35,6 +36,7 @@ Página do produto: Exibição de informações completas do item.
 Carrinho: Revisão dos itens adicionados e cálculo correto do subtotal/total.
 
 Pagamento: Seleção da forma de pagamento e confirmação da compra.
+
 
 💻 Implementação em Python
 
@@ -76,6 +78,7 @@ Interface
 
 Menu interativo no terminal, permitindo navegação simples entre as opções.
 
+
 📊 Diagrama (Visão Geral)
 
 Fluxo simplificado do sistema:
@@ -92,6 +95,7 @@ Estoque: lista de produtos disponíveis.
 Carrinho: itens adicionados para compra.
 
 Pagamento: etapa final, onde o pedido é confirmado.
+
 
 ✨ Resumo
 
